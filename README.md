@@ -14,7 +14,7 @@ results will be write to `result.html` / 文件结果将会保存到`result.html
 Test on `Macos Mojave` / `Windows 10`  
 
 Options:
-  -h string  git
+  -h string  
     	search host or ip address / 填域名或者IP地址   
   -k string  
     	force use keyword search / 强制使用关键字搜索  
